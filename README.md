@@ -10,6 +10,6 @@ pip install -r requirement.txt.
 
 To run the application : streamlit run app.py
 
-Open the browser the type: localhost:5000/
+Open the browser the type: localhost:8501/
 
 # Hurrah!! application is good to go
